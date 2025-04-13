@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">media_SP</string>
+    <string name="edit_nota1">Nota 1</string>
+    <string name="edit_nota2">Nota 2</string>
+    <string name="edit_nota3">Nota 3</string>
+
+    <string name="edit_peso">Peso</string>
+    <string name="nota">Nota</string>
+
+    <string name="bt_calcular">Calcular</string>
+    <string name="tv_resultado">Resultado: </string>
+    <string name="erro_indeterminado">Houve algum erro, verifique os valores inseridos.</string>
+    <string name="erro_peso_maior_que_100">Erro: A soma dos pesos deve ser igual a 100.</string>
+    <string name="erro_nota_invalida">Erro: Notas inválidas use notas com valores entre 0.0 e 10.0.</string>
+</resources>
